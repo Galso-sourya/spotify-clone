@@ -1,0 +1,111 @@
+#header{
+	margin-left:260px;
+}
+#first-button:hover{
+	color:white;
+}
+.left{
+	height:50px;
+}
+.grouping{
+	display:flex;
+	flex-direction:row;
+	float:right;
+	padding-right:50px;
+	position:relative;
+	float:right;
+}
+.naba{
+	margin-top:5px;
+}
+.sidenav {
+  height: 100%;
+  width: 260px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  padding-top: 20px;
+}
+.S{
+	background-color:white;
+}
+.side_always{
+	margin-top:30px;
+margin-left:20px;	
+	display:flex;
+	flex-direction:column;
+	gap:20px;
+}
+.relation{
+	display:flex;
+	gap:30px;
+}
+h5{
+	color:grey;
+}
+span{
+	background-color:white;
+}
+#small{
+	height:30px;
+	width:30px;
+}
+.mut{
+	flex-wrap:wrap;
+	display:flex;
+	gap:10px;
+}
+main{
+	height:250vh;
+}
+#bot{
+	background-image: linear-gradient(90deg,#af2896,#509bf5);
+}
+#my_foot{
+	font-size:15px;
+	display:flex;
+	flex-direction:column;
+	margin-left:5px;
+	height:60px;
+}
+#focus{
+	font-size:30px;
+}
+.mainpart{
+	display:flex;
+	flex-direction:row;
+}
+.twin{
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+}
+.twin>p{
+	color:white;
+}
+.row{
+    width:1000px;
+    height:300px;
+	margin-top:20px;
+	margin-left:290px;
+	gap:50px;
+}
+.col{
+    background-color:grey;
+}
+.row-footer{
+    width:1000px;
+    height:30px;
+	margin-left:290px;
+	display:flex;
+	color:white;
+	gap:100px;
+}
+.col-footer{
+	width:150px;
+}
+.lastu{
+	margin-top:100px;
+}
